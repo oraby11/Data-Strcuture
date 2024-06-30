@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1719781685 source:d:\algorithms\data strcuture\copystack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack1.h"
+
+1719762458 d:\algorithms\data strcuture\copystack\stack1.h
+
