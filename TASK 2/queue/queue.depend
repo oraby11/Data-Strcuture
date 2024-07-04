@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1720101254 source:c:\users\extra\onedrive\desktop\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1720101320 source:c:\users\extra\onedrive\desktop\queue\queue.c
+	<stdio.h>
+	<conio.h>
+	"queue.h"
+
+1720101254 c:\users\extra\onedrive\desktop\queue\queue.h
+	"Global.h"
+
+1720101254 c:\users\extra\onedrive\desktop\queue\global.h
+

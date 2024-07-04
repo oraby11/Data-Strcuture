@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1720114907 source:d:\data strcuture\linked_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Linked_queue.h"
+
+1720117041 d:\data strcuture\linked_queue\linked_queue.h
+	"Global.h"
+
+1720115275 d:\data strcuture\linked_queue\global.h
+

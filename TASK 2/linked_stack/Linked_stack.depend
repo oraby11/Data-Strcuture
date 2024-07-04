@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1720094133 source:d:\algorithms\data strcuture\linked_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1720100034 source:d:\algorithms\data strcuture\linked_stack\linked_stack.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_stack.h"
+
+1720099922 d:\algorithms\data strcuture\linked_stack\linked_stack.h
+
