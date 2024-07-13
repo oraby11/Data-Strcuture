@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1720862008 source:d:\data strcuture\parentheses\stack.c
+	<stdio.h>
+	"stack.h"
+
+1720862008 d:\data strcuture\parentheses\stack.h
+
+1720862520 source:d:\data strcuture\parentheses\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
