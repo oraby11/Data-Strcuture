@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1720890205 source:d:\data strcuture\linked_list\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list.h"
+	"Global.h"
+
+1720865203 source:d:\data strcuture\linked_list\linked_list\linked_list.c
+	<stdio.h>
+	"linked_list.h"
+	"Global.h"
+
+1720863966 d:\data strcuture\linked_list\linked_list\linked_list.h
+	"Global.h"
+
+1720863422 d:\data strcuture\linked_list\linked_list\global.h
+
